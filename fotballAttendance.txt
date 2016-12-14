@@ -1,0 +1,368 @@
+Uke 1
+"Henrik Alexander Hatlen" <henrik.hatlen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 2
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Kim Daniel Larsen" <kim.larsen@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 3
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Gudbrand Olimb" <gudbrand.olimb@marcello.no>,
+"Henrik Alexander Hatlen" <henrik.hatlen@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 4
+None
+Uke 5
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Uke 6
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>
+Uke 7
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>
+Uke 8
+"Agnes Koi Alexandersen" <agnes.koi.alexandersen@marcello.no>,
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 9
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 10
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>
+Kjetil Dahlen
+Uke 11
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Gudbrand Olimb" <gudbrand.olimb@marcello.no>,
+"Heidi Vikki Munthe-Kaas" <heidi.munthe-kaas@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Richard Stubberud" <richard.stubberud@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 12
+None
+Uke 13
+"Heidi Vikki Munthe-Kaas" <heidi.munthe-kaas@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>
+Kjetil Dahlen
+Uke 14
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Heidi Vikki Munthe-Kaas" <heidi.munthe-kaas@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Kjetil Dahlen
+Uke 15
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Kim Daniel Larsen" <kim.larsen@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Uke 16
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Kim Daniel Larsen" <kim.larsen@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 17
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 18
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Uke 19
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>
+Uke 20
+None
+Uke 21
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Heidi Vikki Munthe-Kaas" <heidi.munthe-kaas@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Uke 22
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Uke 23
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>
+Uke 24
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>
+Uke 25
+None
+Uke 26
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>
+Uke 27
+"Christoffer Strömgren" <cs@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>
+Uke 28
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 29
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 30
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Stine Riisa Maurstad" <stine.riisa.maurstad@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>,
+torbjorn.martinsen@gmail.com
+Kjetil Dahlen
+Uke 31
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Stine Riisa Maurstad" <stine.riisa.maurstad@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 32
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Uke 33
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Christoffer Strömgren" <christoffer.stromgren@marcello.no>,
+"Espen Andreassen" <espen.andreassen@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 34
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Espen Andreassen" <espen.andreassen@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 35
+"Helga Solem" <helga.solem@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 36
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Espen Andreassen" <espen.andreassen@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Näslund Eriksson" <tobias.naslund.eriksson@marcello.no>
+Uke 37
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Stian Kokvik Johansen" <stian.kokvik.johansen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>,
+"Torgrim Blisten Skiaker" <torgrim.blisten.skiaker@marcello.no>
+Kjetil Dahlen
+Uke 38
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Camilla Pettersen" <camilla.pettersen@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Gudbrand Olimb" <gudbrand.olimb@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 39
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Espen Andreassen" <espen.andreassen@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Stian Kokvik Johansen" <stian.kokvik.johansen@marcello.no>
+Uke 40
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Joakim Gumø" <joakim.gumo@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>
+Uke 41
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Stian Kokvik Johansen" <stian.kokvik.johansen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Kjetil Dahlen
+Uke 42
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Gudbrand Olimb" <gudbrand.olimb@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 43
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 44
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 45
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Uke 46
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Espen Andreassen" <espen.andreassen@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Kjetil Dahlen
+Uke 47
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Espen Andreassen" <espen.andreassen@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Ståhl" <tobias.stahl@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Kjetil Dahlen
+Uke 48
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Espen Andreassen" <espen.andreassen@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Stian Kokvik Johansen" <stian.kokvik.johansen@marcello.no>
+Uke 49
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Christoffer Strömgren" <cs@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Malcolm Lindahl" <malcolm.lindahl@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Kjetil Dahlen
+Uke 50
+"Amund Haug Espeseth" <amund.haug.espeseth@marcello.no>,
+"Andreas Giske" <andreas.giske@marcello.no>,
+"Helga Solem" <helga.solem@marcello.no>,
+"Leiv Erik Rosseland" <leiv.erik.rosseland@marcello.no>,
+"Roar Lødemel Rønningen" <roar.lodemel.ronningen@marcello.no>,
+"Tobias Näslund Eriksson" <tobias.naslund.eriksson@marcello.no>,
+"Tor Erik Hvinden" <tor.hvinden@marcello.no>
+Kjetil Dahlen
+Uke 51
