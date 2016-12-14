@@ -1,4 +1,3 @@
-import java.awt.List;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -9,13 +8,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Map;
 
 public class FotballFil {
 	public static void main(String[] args) throws IOException {
@@ -26,7 +19,7 @@ public class FotballFil {
 		attendance = mapAttendance("fotballAttendance.txt", al);
 		
 		writeMapToFile(attendance);
-		//PRINT ATTENDEES
+		//PRINT ATTENDANCE
 		for (HashMap.Entry<String, Integer> entry : attendance.entrySet()) {
 		    System.out.println(entry.getKey()+" : "+entry.getValue());
 		}
