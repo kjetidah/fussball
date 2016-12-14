@@ -122,6 +122,14 @@ public class FotballFil {
 	}
 	
 	
+	//UNUSED
+	public static void formatStrings(ArrayList<String> list){
+		for (int i = 0; i < list.size(); i++) {
+			list.get(i).replaceAll("\"", "");
+		}
+		
+	}
+	
 
 
 }

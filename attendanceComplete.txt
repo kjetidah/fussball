@@ -1,33 +1,26 @@
-Stian Kokvik Johansen <stian.kokvik.johansen@marcello.no>, : 2
-Leiv Erik Rosseland <leiv.erik.rosseland@marcello.no>, : 22
-Torgrim Blisten Skiaker <torgrim.blisten.skiaker@marcello.no>, : 1
-Roar Lødemel Rønningen <roar.lodemel.ronningen@marcello.no> : 6
-Gudbrand Olimb <gudbrand.olimb@marcello.no>, : 4
-Kim Daniel Larsen <kim.larsen@marcello.no>, : 3
-Helga Solem <helga.solem@marcello.no> : 2
-Leiv Erik Rosseland <leiv.erik.rosseland@marcello.no> : 2
-Helga Solem <helga.solem@marcello.no>, : 29
-Malcolm Lindahl <malcolm.lindahl@marcello.no>, : 27
-Camilla Pettersen <camilla.pettersen@marcello.no>, : 1
-Stine Riisa Maurstad <stine.riisa.maurstad@marcello.no>, : 2
-Tobias Näslund Eriksson <tobias.naslund.eriksson@marcello.no>, : 1
-Joakim Gumø <joakim.gumo@marcello.no>, : 10
+Amund Haug Espeseth <amund.haug.espeseth@marcello.no> : 34
+Christoffer Strömgren <cs@marcello.no> : 12
+Roar Lødemel Rønningen <roar.lodemel.ronningen@marcello.no> : 34
+Espen Andreassen <espen.andreassen@marcello.no> : 7
+Camilla Pettersen <camilla.pettersen@marcello.no> : 1
+Helga Solem <helga.solem@marcello.no> : 31
+Tobias Ståhl <tobias.stahl@marcello.no> : 17
+Leiv Erik Rosseland <leiv.erik.rosseland@marcello.no> : 24
+Heidi Vikki Munthe-Kaas <heidi.munthe-kaas@marcello.no> : 4
 torbjorn.martinsen@gmail.com : 1
-Roar Lødemel Rønningen <roar.lodemel.ronningen@marcello.no>, : 28
-Richard Stubberud <richard.stubberud@marcello.no>, : 1
-Christoffer Strömgren <christoffer.stromgren@marcello.no>, : 1
+Joakim Gumø <joakim.gumo@marcello.no> : 10
 Kjetil Dahlen : 19
-Tobias Ståhl <tobias.stahl@marcello.no>, : 17
-Agnes Koi Alexandersen <agnes.koi.alexandersen@marcello.no>, : 1
-Heidi Vikki Munthe-Kaas <heidi.munthe-kaas@marcello.no>, : 4
-Espen Andreassen <espen.andreassen@marcello.no>, : 7
-Andreas Giske <andreas.giske@marcello.no>, : 24
-Amund Haug Espeseth <amund.haug.espeseth@marcello.no>, : 34
-Stian Kokvik Johansen <stian.kokvik.johansen@marcello.no> : 2
-Tor Erik Hvinden <tor.hvinden@marcello.no>, : 15
-Torgrim Blisten Skiaker <torgrim.blisten.skiaker@marcello.no> : 16
-Tor Erik Hvinden <tor.hvinden@marcello.no> : 16
-Tobias Näslund Eriksson <tobias.naslund.eriksson@marcello.no> : 1
-Henrik Alexander Hatlen <henrik.hatlen@marcello.no>, : 2
+Kim Daniel Larsen <kim.larsen@marcello.no> : 3
+Stine Riisa Maurstad <stine.riisa.maurstad@marcello.no> : 2
+Christoffer Strömgren <christoffer.stromgren@marcello.no> : 1
+Henrik Alexander Hatlen <henrik.hatlen@marcello.no> : 2
+Agnes Koi Alexandersen <agnes.koi.alexandersen@marcello.no> : 1
+Malcolm Lindahl <malcolm.lindahl@marcello.no> : 27
+Stian Kokvik Johansen <stian.kokvik.johansen@marcello.no> : 4
+Torgrim Blisten Skiaker <torgrim.blisten.skiaker@marcello.no> : 17
+Tor Erik Hvinden <tor.hvinden@marcello.no> : 31
+Gudbrand Olimb <gudbrand.olimb@marcello.no> : 4
+Tobias Näslund Eriksson <tobias.naslund.eriksson@marcello.no> : 2
+Andreas Giske <andreas.giske@marcello.no> : 24
 None : 4
-Christoffer Strömgren <cs@marcello.no>, : 12
+Richard Stubberud <richard.stubberud@marcello.no> : 1
